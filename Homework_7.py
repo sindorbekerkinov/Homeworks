@@ -21,6 +21,7 @@
 #         print(f"Eng katta son {c}")
 # find_max()
 
+
 # def find_letter_count(word="",letter=""):
 #     word = input("Kiriting kiriting:")
 #     letter = input("Kiriting kiriting:")
@@ -28,7 +29,17 @@
 #     print(f"{letter} {word}ga {count} ta bor.")
 # find_letter_count()
 
-
+# def list_sum(Mylist):
+#     total = sum(Mylist)
+#     print(f"Ro'yxatdagi elementlar yig'indisi {total}.")
+#
+# Mylist = []
+# n = int(input("Elementlar sonini kiriting: "))
+# for list in range(n):
+#     a = int(input(f"Son kirirting: "))
+#     Mylist.append(a)
+#
+# list_sum(Mylist)
 
 
 
